@@ -1,0 +1,5 @@
+{{#user}
+Name: Geetanjali Singh
+Skills: HTML, CSS, JS, React.js, NodeJs, Git, Github, C++, Data Structures
+Email: geetanjalisingh1815@gmail.com
+{{/user}}
